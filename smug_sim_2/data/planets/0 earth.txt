@@ -1,0 +1,9 @@
+name earth
+colorground 0 255 0
+colorair 0 128 255
+colorcloud 255 255 255
+atmosphere 1
+clouds 1
+distance 1
+gravity 1
+number 0
